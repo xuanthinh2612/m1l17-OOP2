@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23c3bece-ed80-4d2d-8279-2e7c4d55378d" name="Default Changelist" comment="" />
+    <list default="true" id="23c3bece-ed80-4d2d-8279-2e7c4d55378d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/adamEva/adamEva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adamEva/adamEva.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kzMEFRM8vQQ4eDBaOiquN2AYtV" />
   <component name="ProjectViewState">
@@ -44,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606698852932</updated>
-      <workItem from="1606698854040" duration="12559000" />
+      <workItem from="1606698854040" duration="13678000" />
+      <workItem from="1606718453609" duration="2780000" />
     </task>
     <servers />
   </component>
@@ -52,10 +60,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1606701971023">
+    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1606722732602">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1606701971023" />
+    <state x="958" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1606722732602" />
     <state x="809" y="193" key="run.anything.popup" timestamp="1606706719439">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
