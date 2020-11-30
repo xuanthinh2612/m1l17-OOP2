@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23c3bece-ed80-4d2d-8279-2e7c4d55378d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/remoteControl/remoteControl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remoteControl/remoteControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplyGame/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplyGame/banana.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplyGame/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplyGame/pikachu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplyGame/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simplyGame" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +45,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODEGYM_COURSE\codegym_Module1\17. Lập trình hướng đối tượng 2\simplyGame" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +60,9 @@
       <option name="presentableId" value="Default" />
       <updated>1606698852932</updated>
       <workItem from="1606698854040" duration="13678000" />
-      <workItem from="1606718453609" duration="7061000" />
+      <workItem from="1606718453609" duration="7674000" />
+      <workItem from="1606731398004" duration="1422000" />
+      <workItem from="1606741110617" duration="3099000" />
     </task>
     <servers />
   </component>
